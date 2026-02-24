@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Eugene kayange
-- 👀 I’m interested in building data science models and softwares of any kind.
+- 👀 I’m interested in building data science models , softwares of any kind and full stack website.
 - 🌱 I’m currently learning data science 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me kayangeeugene@gmail.com or 0985522820 on WhatsApp 
